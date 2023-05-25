@@ -20,8 +20,14 @@ if __name__ == '__main__':
     printed_first_failed = False
     for example in examples:
         with open(os.path.join(os.path.dirname(__file__), f'in/{example}'), 'r') as f_in:
-            result = subprocess.run(command, stdin=f_in, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)
-        
+            try:
+                result = subprocess.run(command, stdin=f_in, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)
+            except:
+                print(f'\nCoś poszło nie tak!')
+                print(f'Upewnij się, że podane przez ciebie polecenie jest poprawne i można je uruchomić w terminalu:')
+                print(f'$ {" ".join(command)}')
+                sys.exit(1)
+
         # Compare stdout with expected output.
         with open(os.path.join(os.path.dirname(__file__), f'out/{example}'), 'r') as f_out:
             expected = f_out.read()
