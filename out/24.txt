@@ -1,0 +1,6 @@
+[None, 65, None, 65]
+1
+[None, Deleted, None, 65]
+[28, Deleted, None, 65]
+[28, Deleted, 38, 65]
+[28, Deleted, 38, 65]

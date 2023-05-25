@@ -1,0 +1,10 @@
+[None, 91, None, None, 34, 85, None, 97, None, None]
+1
+7
+[None, Deleted, None, None, 34, 85, None, 97, None, None]
+4
+7
+[None, Deleted, None, None, Deleted, 85, None, 97, None, None]
+5
+[None, Deleted, None, None, Deleted, Deleted, None, 97, None, None]
+7

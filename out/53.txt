@@ -1,0 +1,8 @@
+[15, 16, 47, 48, 34, 60, 81, 32, 18, None, 70, 56, None, 88, None]
+[15, 16, 47, 48, 34, 60, 81, 32, 18, None, 70, 56, None, 88, None]
+11
+[15, 16, 47, 48, 34, 60, Deleted, 32, 18, None, 70, 56, None, 88, None]
+[15, 16, 47, 48, 34, 60, Deleted, 32, 18, None, 70, 56, None, 88, None]
+8
+[15, 16, 47, 48, 34, 60, Deleted, Deleted, 18, None, 70, 56, None, 88, None]
+[15, 16, 47, 48, 34, 60, Deleted, Deleted, 18, 34, 70, 56, None, 88, None]

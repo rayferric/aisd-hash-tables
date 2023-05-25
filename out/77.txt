@@ -1,0 +1,33 @@
+[None, 1, None, None, None, None, None, None, None, None, None, None, None, None, None, 83, None, None, None, None, 54, None, None, None, 92, None, 60, None, None, None, None, None, None, None]
+[None, 1, None, None, None, None, None, None, None, None, None, None, None, None, None, 83, None, None, None, None, Deleted, None, None, None, 92, None, 60, None, None, None, None, None, None, None]
+15
+24
+[None, Deleted, None, None, None, None, None, None, None, None, None, None, None, None, None, 83, None, None, None, None, Deleted, None, None, None, 92, None, 60, None, None, None, None, None, None, None]
+[None, Deleted, None, None, None, None, None, None, None, None, None, None, None, None, None, 83, None, None, None, None, Deleted, None, None, None, 92, None, Deleted, None, None, None, None, None, None, None]
+[None, Deleted, None, None, None, None, None, None, None, None, None, None, None, None, None, Deleted, None, None, None, None, Deleted, None, None, None, 92, None, Deleted, None, None, None, None, None, None, None]
+24
+[None, Deleted, None, None, None, None, None, None, None, None, None, None, None, None, None, Deleted, None, None, None, None, Deleted, None, None, None, Deleted, None, Deleted, None, None, None, None, None, None, None]
+[None, Deleted, None, None, None, None, None, None, None, None, 10, None, None, None, None, Deleted, None, None, None, None, Deleted, None, None, None, Deleted, None, Deleted, None, None, None, None, None, None, None]
+10
+10
+10
+[None, Deleted, None, None, None, None, None, None, None, None, 10, None, None, None, None, Deleted, None, None, None, None, Deleted, None, 90, None, Deleted, None, Deleted, None, None, None, None, None, None, None]
+[None, Deleted, None, None, None, None, None, 75, None, None, 10, None, None, None, None, Deleted, None, None, None, None, Deleted, None, 90, None, Deleted, None, Deleted, None, None, None, None, None, None, None]
+10
+[None, Deleted, None, None, None, None, None, 75, None, None, 10, None, None, None, 82, Deleted, None, None, None, None, Deleted, None, 90, None, Deleted, None, Deleted, None, None, None, None, None, None, None]
+[None, Deleted, None, None, None, None, None, 75, None, None, 10, None, None, None, 82, Deleted, None, None, None, None, 20, None, 90, None, Deleted, None, Deleted, None, None, None, None, None, None, None]
+[None, Deleted, None, None, None, None, None, 75, None, None, 10, None, None, None, 82, Deleted, None, None, None, None, 20, None, Deleted, None, Deleted, None, Deleted, None, None, None, None, None, None, None]
+[None, Deleted, None, None, None, None, None, 75, None, None, 10, None, None, None, Deleted, Deleted, None, None, None, None, 20, None, Deleted, None, Deleted, None, Deleted, None, None, None, None, None, None, None]
+[None, Deleted, 2, None, None, None, None, 75, None, None, 10, None, None, None, Deleted, Deleted, None, None, None, None, 20, None, Deleted, None, Deleted, None, Deleted, None, None, None, None, None, None, None]
+2
+20
+[None, Deleted, 2, None, None, None, None, 75, None, None, 10, None, None, None, Deleted, Deleted, None, None, None, None, 20, None, Deleted, None, Deleted, None, Deleted, 61, None, None, None, None, None, None]
+[None, Deleted, 2, None, None, None, None, Deleted, None, None, 10, None, None, None, Deleted, Deleted, None, None, None, None, 20, None, Deleted, None, Deleted, None, Deleted, 61, None, None, None, None, None, None]
+[None, Deleted, 2, None, None, None, None, Deleted, None, None, Deleted, None, None, None, Deleted, Deleted, None, None, None, None, 20, None, Deleted, None, Deleted, None, Deleted, 61, None, None, None, None, None, None]
+20
+[None, Deleted, 2, None, None, None, None, Deleted, None, None, Deleted, None, None, None, Deleted, Deleted, None, None, None, None, 20, None, Deleted, None, Deleted, None, Deleted, Deleted, None, None, None, None, None, None]
+[None, Deleted, Deleted, None, None, None, None, Deleted, None, None, Deleted, None, None, None, Deleted, Deleted, None, None, None, None, 20, None, Deleted, None, Deleted, None, Deleted, Deleted, None, None, None, None, None, None]
+20
+20
+[None, Deleted, Deleted, None, None, None, None, Deleted, None, None, Deleted, None, None, None, Deleted, Deleted, None, 85, None, None, 20, None, Deleted, None, Deleted, None, Deleted, Deleted, None, None, None, None, None, None]
+[None, Deleted, Deleted, None, None, None, None, Deleted, None, None, Deleted, None, None, None, Deleted, Deleted, None, Deleted, None, None, 20, None, Deleted, None, Deleted, None, Deleted, Deleted, None, None, None, None, None, None]

@@ -1,0 +1,3 @@
+[None, 1, None, None, 4, None, None, None, 8, None, 10, None, 12, 63, None, 15, None, None, None, 19, 20, 21, None, 23, None, 76, 77, 76, 28, 79, 29, 30, 83, 76, 34, 35, None, None, 89, 90, 39, None, None, 43, None, None, None, None, 99, None, None]
+[None, 1, None, None, 4, None, None, None, 8, None, 10, None, 12, 63, None, 15, None, None, None, 19, 20, 21, None, 23, None, 76, 77, 76, 28, 79, 29, 30, 83, 76, 34, 35, 81, None, 89, 90, 39, None, None, 43, None, None, None, None, 99, None, None]
+[None, 1, None, None, 4, None, None, None, 8, None, 10, None, 12, 63, None, 15, None, None, None, 19, 20, 21, 71, 23, None, 76, 77, 76, 28, 79, 29, 30, 83, 76, 34, 35, 81, None, 89, 90, 39, None, None, 43, None, None, None, None, 99, None, None]

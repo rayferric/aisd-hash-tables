@@ -1,0 +1,15 @@
+[54, 64, 56, 3, 76, 89, 69, 79, 60]
+[54, 64, 56, 3, 76, 89, Deleted, 79, 60]
+1
+[54, 64, 56, 3, 76, Deleted, Deleted, 79, 60]
+[54, 64, 56, 3, 76, Deleted, Deleted, 79, 60]
+[54, 64, 56, Deleted, 76, Deleted, Deleted, 79, 60]
+None
+[54, 64, 56, Deleted, 76, Deleted, Deleted, 79, 60]
+[54, 64, 56, 28, 76, Deleted, Deleted, 79, 60]
+[54, 64, Deleted, 28, 76, Deleted, Deleted, 79, 60]
+7
+[54, 64, Deleted, 28, 76, 86, Deleted, 79, 60]
+[54, 64, Deleted, 28, 76, 86, Deleted, Deleted, 60]
+[54, 64, Deleted, Deleted, 76, 86, Deleted, Deleted, 60]
+[54, Deleted, Deleted, Deleted, 76, 86, Deleted, Deleted, 60]

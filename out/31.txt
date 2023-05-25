@@ -1,0 +1,11 @@
+[63, 49, None]
+[63, [25, 49], None]
+[None, [25, 49], None]
+1
+[None, [25, 49], 2]
+1
+[None, 25, 2]
+1
+[None, None, 2]
+[None, None, None]
+[None, 94, None]

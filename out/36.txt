@@ -1,0 +1,6 @@
+[None, 62, None, None, None, None, 6, 28, 50, None, 94, 32, 75, 95, 12, 78, 10, None, 60, None, 41]
+[None, 62, None, None, None, None, 6, 28, 50, None, 94, 32, Deleted, 95, 12, 78, 10, None, 60, None, 41]
+7
+[None, 62, None, None, None, None, Deleted, 28, 50, None, 94, 32, Deleted, 95, 12, 78, 10, None, 60, None, 41]
+[None, 62, None, None, None, None, Deleted, 28, 50, None, 94, 32, Deleted, 95, 12, 78, 10, None, 60, None, 41]
+7

@@ -1,0 +1,9 @@
+[None, None, 8, None, None, None]
+2
+[None, None, 8, None, 10, None]
+[None, None, 8, None, Deleted, None]
+[None, None, 8, 87, Deleted, None]
+2
+[None, None, Deleted, 87, Deleted, None]
+[None, None, Deleted, 87, 52, None]
+[None, None, Deleted, 87, Deleted, None]

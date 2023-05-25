@@ -1,0 +1,36 @@
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 19, None, None, None, None, None, None, None, None]
+19
+19
+19
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 19, None, 21, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, Deleted, None, 21, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, Deleted, None, Deleted, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, 14, None, None, None, None, Deleted, None, Deleted, None, None, None, None, None, None]
+14
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, Deleted, None, None, None, None, Deleted, None, Deleted, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, 92, None, None, None, None, None, Deleted, None, None, None, None, Deleted, None, Deleted, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, 35, 92, None, None, None, None, None, Deleted, None, None, None, None, Deleted, None, Deleted, None, None, None, None, None, None]
+[None, None, None, None, None, 61, None, 35, 92, None, None, None, None, None, Deleted, None, None, None, None, Deleted, None, Deleted, None, None, None, None, None, None]
+5
+[None, None, None, None, None, 61, None, Deleted, 92, None, None, None, None, None, Deleted, None, None, None, None, Deleted, None, Deleted, None, None, None, None, None, None]
+5
+8
+[None, None, None, None, None, Deleted, None, Deleted, 92, None, None, None, None, None, Deleted, None, None, None, None, Deleted, None, Deleted, None, None, None, None, None, None]
+8
+[None, None, None, None, None, Deleted, None, Deleted, 92, None, None, None, None, None, Deleted, None, None, None, None, Deleted, 20, Deleted, None, None, None, None, None, None]
+20
+[None, None, None, None, None, Deleted, None, Deleted, 92, None, None, None, None, None, Deleted, None, None, None, 46, Deleted, 20, Deleted, None, None, None, None, None, None]
+8
+[None, None, None, None, None, Deleted, None, Deleted, 92, None, None, None, None, 97, Deleted, None, None, None, 46, Deleted, 20, Deleted, None, None, None, None, None, None]
+18
+13
+[None, None, None, None, None, Deleted, None, Deleted, 92, None, None, None, None, Deleted, Deleted, None, None, None, 46, Deleted, 20, Deleted, None, None, None, None, None, None]
+[None, None, None, None, None, Deleted, None, Deleted, Deleted, None, None, None, None, Deleted, Deleted, None, None, None, 46, Deleted, 20, Deleted, None, None, None, None, None, None]
+20
+[None, None, None, None, None, Deleted, None, Deleted, Deleted, None, None, None, None, Deleted, Deleted, None, None, None, 46, Deleted, Deleted, Deleted, None, None, None, None, None, None]
+18
+18
+[None, None, None, None, None, Deleted, None, Deleted, Deleted, None, None, None, None, Deleted, Deleted, None, None, None, Deleted, Deleted, Deleted, Deleted, None, None, None, None, None, None]
+[None, None, None, None, None, Deleted, None, Deleted, Deleted, None, None, None, None, Deleted, 14, None, None, None, Deleted, Deleted, Deleted, Deleted, None, None, None, None, None, None]
+14
+[None, None, None, None, None, Deleted, None, Deleted, Deleted, None, None, None, None, Deleted, Deleted, None, None, None, Deleted, Deleted, Deleted, Deleted, None, None, None, None, None, None]

@@ -1,0 +1,11 @@
+[None, None, None, 33, None, 25, 26, None, 68, None]
+3
+5
+5
+[None, None, None, 33, 44, 25, 26, None, 68, None]
+8
+[None, None, None, Deleted, 44, 25, 26, None, 68, None]
+[14, None, None, Deleted, 44, 25, 26, None, 68, None]
+[14, None, None, Deleted, 44, 25, Deleted, None, 68, None]
+4
+[14, None, None, Deleted, 44, Deleted, Deleted, None, 68, None]

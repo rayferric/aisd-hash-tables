@@ -1,0 +1,8 @@
+[None, None, None, 47, None, 5, None, None, 52, 52, 74, 99, 77, None, 80, 37, None, None, None, 19, 20, 65]
+[None, None, None, 47, None, 5, None, None, 52, 52, 74, 99, 77, None, 80, 37, None, None, None, 19, Deleted, 65]
+11
+3
+[None, 1, None, 47, None, 5, None, None, 52, 52, 74, 99, 77, None, 80, 37, None, None, None, 19, Deleted, 65]
+[None, 1, None, Deleted, None, 5, None, None, 52, 52, 74, 99, 77, None, 80, 37, None, None, None, 19, Deleted, 65]
+[None, Deleted, None, Deleted, None, 5, None, None, 52, 52, 74, 99, 77, None, 80, 37, None, None, None, 19, Deleted, 65]
+[None, Deleted, None, Deleted, 70, 5, None, None, 52, 52, 74, 99, 77, None, 80, 37, None, None, None, 19, Deleted, 65]

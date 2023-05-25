@@ -1,0 +1,42 @@
+[None, None, None, None, None, [5, 5], None, 47, [88, 8], None, 10, None, None, None, None, 55, [16, 56], None, None, None, 100, None, None, [23, 23], None, None, None, None, None, None, 30, 31, 72, 73, None, 35, None, None, None, None]
+23
+[None, None, None, None, None, [5, 5], None, 47, 8, None, 10, None, None, None, None, 55, [16, 56], None, None, None, 100, None, None, [23, 23], None, None, None, None, None, None, 30, 31, 72, 73, None, 35, None, None, None, None]
+32
+[None, None, None, None, None, [5, 5], None, 47, 8, None, 10, None, None, None, None, 55, 16, None, None, None, 100, None, None, [23, 23], None, None, None, None, None, None, 30, 31, 72, 73, None, 35, None, None, None, None]
+15
+23
+[None, None, 82, None, None, [5, 5], None, 47, 8, None, 10, None, None, None, None, 55, 16, None, None, None, 100, None, None, [23, 23], None, None, None, None, None, None, 30, 31, 72, 73, None, 35, None, None, None, None]
+7
+[None, None, 82, None, None, [5, 5], None, 47, 8, None, 10, None, None, None, None, 55, 16, None, None, None, 100, None, None, [23, 23], None, None, None, 67, None, None, 30, 31, 72, 73, None, 35, None, None, None, None]
+[None, None, 82, None, None, [5, 5], None, 47, 8, None, None, None, None, None, None, 55, 16, None, None, None, 100, None, None, [23, 23], None, None, None, 67, None, None, 30, 31, 72, 73, None, 35, None, None, None, None]
+[None, None, 82, None, None, [5, 5], None, 47, 8, None, None, None, None, None, None, 55, None, None, None, None, 100, None, None, [23, 23], None, None, None, 67, None, None, 30, 31, 72, 73, None, 35, None, None, None, None]
+30
+[None, None, 82, None, None, [5, 5], None, 47, 8, None, None, None, None, None, None, 55, None, None, None, None, 100, None, None, [23, 23], None, None, None, 67, None, None, 30, 31, 72, [73, 73], None, 35, None, None, None, None]
+33
+[None, None, 82, None, None, 5, None, 47, 8, None, None, None, None, None, None, 55, None, None, None, None, 100, None, None, [23, 23], None, None, None, 67, None, None, 30, 31, 72, [73, 73], None, 35, None, None, None, None]
+35
+[None, None, 82, None, None, 5, None, 47, 8, None, None, None, None, None, None, 55, None, None, None, None, 100, None, None, [23, 23], None, None, None, 67, None, 69, 30, 31, 72, [73, 73], None, 35, None, None, None, None]
+[None, None, 82, None, None, 5, None, 47, 8, None, None, None, None, None, None, 55, None, None, None, None, 100, None, None, [23, 23], None, None, None, 67, None, 69, 30, 31, 72, [73, 73], None, 35, 36, None, None, None]
+[None, None, 82, None, None, 5, None, 47, 8, None, None, None, None, None, None, 55, None, None, None, None, 100, None, None, [23, 23], None, None, None, 67, None, 69, 30, None, 72, [73, 73], None, 35, 36, None, None, None]
+[None, None, 82, None, None, 5, None, 47, 8, None, None, None, None, None, None, 55, None, None, None, None, 100, None, None, [23, 23], None, None, None, 67, None, 69, 30, None, None, [73, 73], None, 35, 36, None, None, None]
+35
+[None, None, 82, None, None, 5, None, 47, 8, None, None, None, None, 53, None, 55, None, None, None, None, 100, None, None, [23, 23], None, None, None, 67, None, 69, 30, None, None, [73, 73], None, 35, 36, None, None, None]
+8
+[None, None, 82, None, None, 5, None, 47, 8, None, None, None, None, 53, None, 55, None, None, None, None, 100, None, None, [23, 23, 23], None, None, None, 67, None, 69, 30, None, None, [73, 73], None, 35, 36, None, None, None]
+35
+[None, None, 82, None, None, 5, None, 47, 8, None, 10, None, None, 53, None, 55, None, None, None, None, 100, None, None, [23, 23, 23], None, None, None, 67, None, 69, 30, None, None, [73, 73], None, 35, 36, None, None, None]
+[None, None, 82, None, None, [85, 5], None, 47, 8, None, 10, None, None, 53, None, 55, None, None, None, None, 100, None, None, [23, 23, 23], None, None, None, 67, None, 69, 30, None, None, [73, 73], None, 35, 36, None, None, None]
+5
+[None, None, 82, None, None, [85, 5], 46, 47, 8, None, 10, None, None, 53, None, 55, None, None, None, None, 100, None, None, [23, 23, 23], None, None, None, 67, None, 69, 30, None, None, [73, 73], None, 35, 36, None, None, None]
+[None, None, 82, None, None, [85, 5], 46, 47, 8, None, 10, None, None, 53, None, 55, None, None, None, None, 100, None, None, [23, 23, 23], 24, None, None, 67, None, 69, 30, None, None, [73, 73], None, 35, 36, None, None, None]
+[None, None, 82, None, None, [85, 5], 46, 47, 8, None, 10, 91, None, 53, None, 55, None, None, None, None, 100, None, None, [23, 23, 23], 24, None, None, 67, None, 69, 30, None, None, [73, 73], None, 35, 36, None, None, None]
+6
+[None, None, 82, None, None, [85, 5], 46, 47, 8, None, 10, 91, None, 53, None, 55, None, None, None, None, 100, None, None, [23, 23, 23], 24, None, None, 67, None, 69, 30, None, None, [73, 73], 34, 35, 36, None, None, None]
+[None, None, 82, None, None, [85, 5], 46, [87, 47], 8, None, 10, 91, None, 53, None, 55, None, None, None, None, 100, None, None, [23, 23, 23], 24, None, None, 67, None, 69, 30, None, None, [73, 73], 34, 35, 36, None, None, None]
+30
+7
+[None, None, 82, None, None, [85, 5], 46, [87, 47], 8, None, 10, 91, None, 53, None, 55, None, None, None, None, 100, None, None, [23, 23, 23], 24, None, None, 67, None, 69, 30, None, None, [73, 73], 34, 35, 36, None, 38, None]
+15
+27
+[None, None, 82, None, None, [85, 5], 46, [87, 47], 8, None, [50, 10], 91, None, 53, None, 55, None, None, None, None, 100, None, None, [23, 23, 23], 24, None, None, 67, None, 69, 30, None, None, [73, 73], 34, 35, 36, None, 38, None]
+[None, None, 82, None, None, [85, 5], 46, [87, 47], 8, None, [50, 10], 91, None, 53, None, 55, None, None, None, None, None, None, None, [23, 23, 23], 24, None, None, 67, None, 69, 30, None, None, [73, 73], 34, 35, 36, None, 38, None]

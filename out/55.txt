@@ -1,0 +1,55 @@
+[28, 67, None, 88, 52, 39, 23, 24, 57, 26, 44, 3, 76, 47, 31, 47, 84]
+[28, 67, None, 88, 52, 39, 23, 24, 57, 26, 44, Deleted, 76, 47, 31, 47, 84]
+[28, 67, None, 88, 52, 39, 23, 24, 57, 26, 44, 50, 76, 47, 31, 47, 84]
+None
+14
+[28, 67, None, Deleted, 52, 39, 23, 24, 57, 26, 44, 50, 76, 47, 31, 47, 84]
+[Deleted, 67, None, Deleted, 52, 39, 23, 24, 57, 26, 44, 50, 76, 47, 31, 47, 84]
+None
+[26, 67, None, Deleted, 52, 39, 23, 24, 57, 26, 44, 50, 76, 47, 31, 47, 84]
+None
+9
+[26, 67, None, Deleted, 52, 39, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
+[26, 67, 33, Deleted, 52, 39, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
+None
+6
+[26, 67, 33, 18, 52, 39, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
+1
+[26, 67, Deleted, 18, 52, 39, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
+[26, 67, Deleted, 18, 52, 39, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
+4
+[26, 67, Deleted, 18, Deleted, 39, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
+3
+8
+6
+6
+[26, 67, Deleted, 18, Deleted, Deleted, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
+6
+1
+[26, Deleted, Deleted, 18, Deleted, Deleted, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
+[26, Deleted, 51, 18, Deleted, Deleted, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
+[26, Deleted, 51, 18, Deleted, Deleted, 23, 24, 57, Deleted, Deleted, 50, 76, 47, 31, 47, 84]
+[26, Deleted, 51, 18, Deleted, Deleted, 23, 24, 57, Deleted, Deleted, 50, 76, 47, 31, 47, 84]
+[26, Deleted, 51, 18, Deleted, Deleted, 23, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, 84]
+[26, Deleted, 51, 18, 15, Deleted, 23, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, 84]
+[26, Deleted, 51, 18, 15, Deleted, 23, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, 84]
+[26, Deleted, 51, 18, 15, Deleted, Deleted, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, 84]
+[26, Deleted, 51, 18, 15, Deleted, Deleted, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
+[26, Deleted, 51, 18, 15, Deleted, Deleted, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
+[26, Deleted, 51, 18, 15, 5, Deleted, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
+14
+[26, Deleted, 51, 18, 15, 5, Deleted, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
+10
+[26, Deleted, 51, 18, 15, 5, 2, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
+[26, Deleted, Deleted, 18, 15, 5, 2, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
+[26, Deleted, 45, 18, 15, 5, 2, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
+14
+None
+None
+[26, 63, 45, 18, 15, 5, 2, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
+6
+[26, 63, 45, 18, 15, Deleted, 2, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
+[26, 63, 45, 18, 15, Deleted, 2, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
+None
+[26, 63, 45, 18, Deleted, Deleted, 2, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
+13
