@@ -16,7 +16,11 @@ git clone https://github.com/rayferric/aisd-hash-tables.git
 
 ```bash
 python ./aisd-hash-tables/test_examples.py <polecenie uruchamiające twój program>
-# Przykładowo: python ./aisd-hash-tables/test_examples.py ./zadania-aisd/tablice_z_haszowaniem.py
+```
+```
+# Przykładowe polecenia uruchamiające:
+# python ./aisd-hash-tables/test_examples.py python ./zadania-aisd/tablice_z_haszowaniem.py
+# python ./aisd-hash-tables/test_examples.py ./zadania-aisd/hash-tables.exe
 ```
 
 - Jeśli twoje rozwiązanie nie poradzi sobie z którymś z testów, informacje o tym co poszło nie tak pojawią się w terminalu:
