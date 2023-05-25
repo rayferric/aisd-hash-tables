@@ -11,7 +11,7 @@ if __name__ == '__main__':
     print(f'Polecenie uruchamiające solver: {" ".join(command)}')
 
     # Find examples in "./in".
-    examples = [f for f in os.listdir('in') if os.path.isfile(os.path.join('in', f))]
+    examples = [f for f in os.listdir(os.path.join(os.path.dirname(__file__), 'in')) if os.path.isfile(os.path.join(os.path.dirname(__file__), 'in', f))]
     examples.sort(key=lambda x: int(x[:-4]))
     print(f'Sprawdzanie {len(examples)} testów...')
 
@@ -19,11 +19,11 @@ if __name__ == '__main__':
     passed = 0
     printed_first_failed = False
     for example in examples:
-        with open(f'in/{example}', 'r') as f_in:
+        with open(os.path.join(os.path.dirname(__file__), f'in/{example}'), 'r') as f_in:
             result = subprocess.run(command, stdin=f_in, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)
         
         # Compare stdout with expected output.
-        with open(f'out/{example}', 'r') as f_out:
+        with open(os.path.join(os.path.dirname(__file__), f'out/{example}'), 'r') as f_out:
             expected = f_out.read()
             if result.stdout != expected:
                 if not printed_first_failed:
