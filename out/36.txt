@@ -1,26 +1,2 @@
-[32, 3, 50, 66, 52, 29, 30, 71]
-[32, 3, 50, 66, Deleted, 29, 30, 71]
-[32, 3, Deleted, 66, Deleted, 29, 30, 71]
-1
-[32, 3, Deleted, 66, Deleted, Deleted, 30, 71]
-[32, 3, Deleted, 66, Deleted, Deleted, Deleted, 71]
-7
-[32, 3, Deleted, 66, Deleted, Deleted, Deleted, Deleted]
-0
-1
-[32, Deleted, Deleted, 66, Deleted, Deleted, Deleted, Deleted]
-[Deleted, Deleted, Deleted, 66, Deleted, Deleted, Deleted, Deleted]
-[Deleted, Deleted, Deleted, 66, 75, Deleted, Deleted, Deleted]
-3
-[Deleted, Deleted, Deleted, 66, 75, 52, Deleted, Deleted]
-[Deleted, Deleted, Deleted, 66, 75, Deleted, Deleted, Deleted]
-3
-3
-[Deleted, Deleted, Deleted, Deleted, 75, Deleted, Deleted, Deleted]
-[Deleted, Deleted, Deleted, Deleted, Deleted, Deleted, Deleted, Deleted]
-[40, Deleted, Deleted, Deleted, Deleted, Deleted, Deleted, Deleted]
-[Deleted, Deleted, Deleted, Deleted, Deleted, Deleted, Deleted, Deleted]
-[Deleted, Deleted, Deleted, Deleted, Deleted, Deleted, Deleted, 71]
-[Deleted, Deleted, Deleted, Deleted, Deleted, Deleted, Deleted, Deleted]
-[Deleted, Deleted, Deleted, Deleted, 92, Deleted, Deleted, Deleted]
-[Deleted, Deleted, Deleted, Deleted, Deleted, Deleted, Deleted, Deleted]
+[None, 47, 2, 3, 16, 28, None, 76, 77, 78, 72, 11, 28, None, None, 97, 57, None, None, 95, None, None, None]
+[None, 47, 2, 3, 16, 28, None, 76, 77, 78, 72, 11, 28, None, None, 97, 57, None, None, 95, 43, None, None]

@@ -1,6 +1,5 @@
-[13]
-0
-0
-[Deleted]
-[76]
-[Deleted]
+[None, 1, 67, 63, 94, None]
+3
+[None, Deleted, 67, 63, 94, None]
+[None, Deleted, Deleted, 63, 94, None]
+[None, 73, Deleted, 63, 94, None]

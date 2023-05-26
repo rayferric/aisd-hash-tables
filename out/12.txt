@@ -1,5 +1,7 @@
-[20, 61, 50, 58]
-1
-2
-[20, 61, Deleted, 58]
-[20, Deleted, Deleted, 58]
+[None, 25, None, 75, None, None, 62, 87]
+[None, 25, None, 75, None, None, Deleted, 87]
+7
+[None, Deleted, None, 75, None, None, Deleted, 87]
+7
+3
+7

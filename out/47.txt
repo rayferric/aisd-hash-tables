@@ -1,19 +1,41 @@
-[None, 39, 2, 60, 68, None, None, 83, 28, 64, 48, 47, 88, 1, 21, 34, 10, 35, 94]
-[None, 39, 2, 60, 68, None, None, 83, 28, 64, 48, 47, Deleted, 1, 21, 34, 10, 35, 94]
-16
-[None, 39, 2, 60, 68, None, None, Deleted, 28, 64, 48, 47, Deleted, 1, 21, 34, 10, 35, 94]
+[90, 11, 82, None, None]
+[90, 11, Deleted, None, None]
+[90, 11, Deleted, 38, None]
 3
-[None, 39, 2, 60, 68, None, None, Deleted, 28, 64, 48, 47, Deleted, 1, 21, Deleted, 10, 35, 94]
-11
-[None, 39, 2, Deleted, 68, None, None, Deleted, 28, 64, 48, 47, Deleted, 1, 21, Deleted, 10, 35, 94]
-11
-8
-16
-11
-[None, 39, 2, Deleted, 68, None, None, Deleted, 28, 64, 48, 47, Deleted, Deleted, 21, Deleted, 10, 35, 94]
-18
-[None, 39, 2, Deleted, 68, None, None, Deleted, 28, 64, 48, 47, Deleted, Deleted, 21, Deleted, 10, 35, Deleted]
-[None, 39, 2, Deleted, 68, None, None, Deleted, 28, 64, 48, Deleted, Deleted, Deleted, 21, Deleted, 10, 35, Deleted]
-16
-9
-[None, 39, Deleted, Deleted, 68, None, None, Deleted, 28, 64, 48, Deleted, Deleted, Deleted, 21, Deleted, 10, 35, Deleted]
+[90, Deleted, Deleted, 38, None]
+0
+[90, Deleted, 42, 38, None]
+[90, Deleted, Deleted, 38, None]
+0
+[90, Deleted, Deleted, 38, 19]
+[Deleted, Deleted, Deleted, 38, 19]
+4
+[40, Deleted, Deleted, 38, 19]
+[40, Deleted, Deleted, Deleted, 19]
+[40, 31, Deleted, Deleted, 19]
+1
+4
+[Deleted, 31, Deleted, Deleted, 19]
+[Deleted, 31, 37, Deleted, 19]
+[86, 31, 37, Deleted, 19]
+[86, Deleted, 37, Deleted, 19]
+[86, Deleted, 37, 74, 19]
+3
+[86, Deleted, 37, Deleted, 19]
+[86, 17, 37, Deleted, 19]
+[86, 17, Deleted, Deleted, 19]
+[86, Deleted, Deleted, Deleted, 19]
+4
+4
+[Deleted, Deleted, Deleted, Deleted, 19]
+4
+4
+[Deleted, Deleted, Deleted, Deleted, Deleted]
+[40, Deleted, Deleted, Deleted, Deleted]
+[40, 40, Deleted, Deleted, Deleted]
+0
+[40, 40, Deleted, Deleted, 29]
+[40, 40, 12, Deleted, 29]
+2
+[40, 40, 12, 7, 29]
+3

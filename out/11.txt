@@ -1,6 +1,4 @@
-[30, None, None, 83, None]
-[30, None, 40, 83, None]
-3
-0
-[30, None, 40, Deleted, None]
-[Deleted, None, 40, Deleted, None]
+[76]
+[None]
+[2]
+[None]

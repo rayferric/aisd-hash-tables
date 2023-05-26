@@ -1,2 +1,4 @@
-[42, 64, 52, 36, 46, 26, 90, 49, 50, 72, 52, 11, None, None, None, 57, 100, 29, 60, None, 81]
-15
+[36, None, 92, None, None, None, 6, None, None, 63, 64, 27, None, None, 14, 69, None, None]
+[36, None, 92, None, None, None, 6, None, 26, 63, 64, 27, None, None, 14, 69, None, None]
+[36, None, 92, None, None, None, 6, None, 26, 63, 64, 27, None, None, 14, Deleted, None, None]
+[36, None, 92, None, None, None, 6, None, 26, 63, Deleted, 27, None, None, 14, Deleted, None, None]

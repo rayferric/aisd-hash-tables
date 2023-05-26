@@ -34,12 +34,12 @@ if __name__ == '__main__':
 
                 # Generate OPs.
                 ops = []
+                max_length = len(array)
                 possible_values = set(array)
-                max_length = len(possible_values)
                 for _ in range(random.randint(0, max(MAX_OPS * i // EXAMPLES, 5))):
                     op = random.randint(0, 2)
                     if op == 0:
-                        if 2 * max_length >= size:
+                        if max_length == size:
                             continue
                         max_length += 1
 

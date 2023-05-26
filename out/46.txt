@@ -1,28 +1,33 @@
-[None, None, None, None, None, 21, None, None]
-5
-[None, None, None, None, None, [13, 21], None, None]
-[None, None, None, None, None, [5, 13, 21], None, None]
-[None, None, None, None, None, [5, 13], None, None]
-5
-[None, None, None, None, None, 5, None, None]
-[None, None, None, None, None, None, None, None]
-[None, None, None, None, 28, None, None, None]
-[None, 81, None, None, 28, None, None, None]
-[24, 81, None, None, 28, None, None, None]
-[[16, 24], 81, None, None, 28, None, None, None]
-1
-0
-[[16, 24], 81, None, None, None, None, None, None]
-[[16, 24], None, None, None, None, None, None, None]
-[16, None, None, None, None, None, None, None]
-0
-0
-[None, None, None, None, None, None, None, None]
-[40, None, None, None, None, None, None, None]
-[40, 97, None, None, None, None, None, None]
-[None, 97, None, None, None, None, None, None]
-1
-1
-[None, None, None, None, None, None, None, None]
-[96, None, None, None, None, None, None, None]
-[96, None, None, None, None, None, 14, None]
+[None, None, [50, 2], 19, 4, [93, 13], None, 55]
+[None, None, 2, 19, 4, [93, 13], None, 55]
+[None, 81, 2, 19, 4, [93, 13], None, 55]
+[None, 81, 2, 19, 4, 13, None, 55]
+[None, 81, 2, 19, 4, None, None, 55]
+[None, 81, 2, None, 4, None, None, 55]
+2
+[None, 81, 2, None, [92, 4], None, None, 55]
+[None, None, 2, None, [92, 4], None, None, 55]
+[None, None, 2, None, 4, None, None, 55]
+4
+[None, None, [74, 2], None, 4, None, None, 55]
+[None, None, [74, 2], None, [36, 4], None, None, 55]
+[None, None, [74, 2], None, 4, None, None, 55]
+[None, None, [74, 2], None, [60, 4], None, None, 55]
+[None, None, [74, 2], 99, [60, 4], None, None, 55]
+[None, None, [74, 2], [99, 99], [60, 4], None, None, 55]
+7
+2
+4
+[None, None, [74, 2], [99, 99], [60, 4], None, None, [95, 55]]
+[None, None, [74, 2], [99, 99], [60, 4], None, None, 55]
+2
+2
+[None, 73, [74, 2], [99, 99], [60, 4], None, None, 55]
+[None, 73, 2, [99, 99], [60, 4], None, None, 55]
+[None, 73, 2, [99, 99], [60, 4], None, None, [39, 55]]
+[None, 73, 2, [99, 99], 60, None, None, [39, 55]]
+[None, 73, 2, [99, 99], 60, 37, None, [39, 55]]
+[None, 73, 2, 99, 60, 37, None, [39, 55]]
+7
+[None, 73, 2, [99, 99], 60, 37, None, [39, 55]]
+4

@@ -1,12 +1,21 @@
-[28, 73, 53, 72, 4, 5, 6, 5, 98, 3, 56, 55, 56, 36, 81, 3, 10, 17, 87, 86, 100, 67, 43]
-[28, 73, Deleted, 72, 4, 5, 6, 5, 98, 3, 56, 55, 56, 36, 81, 3, 10, 17, 87, 86, 100, 67, 43]
-8
-13
-6
-[28, 73, Deleted, 72, 4, Deleted, 6, 5, 98, 3, 56, 55, 56, 36, 81, 3, 10, 17, 87, 86, 100, 67, 43]
-14
-10
-[28, 73, Deleted, 72, 4, Deleted, 6, 5, 98, 3, 56, Deleted, 56, 36, 81, 3, 10, 17, 87, 86, 100, 67, 43]
-0
-[28, 73, Deleted, 72, 4, Deleted, 6, 5, 98, 3, 56, Deleted, 56, 36, Deleted, 3, 10, 17, 87, 86, 100, 67, 43]
-10
+[14, 57, 98, 61]
+[14, Deleted, 98, 61]
+[Deleted, Deleted, 98, 61]
+[Deleted, Deleted, Deleted, 61]
+3
+[Deleted, Deleted, Deleted, Deleted]
+[Deleted, Deleted, Deleted, 75]
+3
+[Deleted, 5, Deleted, 75]
+[Deleted, 5, Deleted, Deleted]
+1
+[64, 5, Deleted, Deleted]
+[64, 5, Deleted, 47]
+[64, 5, 48, 47]
+[Deleted, 5, 48, 47]
+2
+[Deleted, 5, 48, Deleted]
+[84, 5, 48, Deleted]
+[84, Deleted, 48, Deleted]
+[84, 41, 48, Deleted]
+[84, 41, 48, 62]

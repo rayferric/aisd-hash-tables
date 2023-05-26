@@ -1,16 +1,27 @@
-[None, [25, 73, 49], 2, 75, None, None, None, 7, None, None, 34, None, 36, None, [38, 62, 62], None, None, [89, 65], 90, 43, None, None, None, None]
-[None, [25, 73, 49], 2, 75, None, None, None, 7, None, None, 34, None, 36, None, [38, 62, 62], None, None, 65, 90, 43, None, None, None, None]
-[None, [25, 73, 49], 2, 75, None, None, None, 7, None, None, 34, None, 36, None, [38, 62, 62], None, None, 65, None, 43, None, None, None, None]
-14
-14
-[None, [25, 73, 49], 2, 75, None, None, None, 7, None, None, 34, None, 36, None, [38, 62, 62], None, None, None, None, 43, None, None, None, None]
-1
-[None, [25, 73, 49], 2, 75, None, None, None, 7, None, None, 34, None, 36, None, [62, 62], None, None, None, None, 43, None, None, None, None]
+[None, None, None, 59, None, None, None, None]
 3
-[None, [25, 73, 49], None, 75, None, None, None, 7, None, None, 34, None, 36, None, [62, 62], None, None, None, None, 43, None, None, None, None]
-[None, [25, 73], None, 75, None, None, None, 7, None, None, 34, None, 36, None, [62, 62], None, None, None, None, 43, None, None, None, None]
+[None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, 38, None]
+[None, None, None, None, None, None, None, None]
+[None, None, None, 67, None, None, None, None]
 3
-[None, [25, 73], None, 75, None, None, None, 7, None, None, 34, None, 36, None, 62, None, None, None, None, 43, None, None, None, None]
-19
-[None, [25, 73], None, 75, None, None, None, 7, None, None, 34, None, 36, 13, 62, None, None, None, None, 43, None, None, None, None]
-[None, 25, None, 75, None, None, None, 7, None, None, 34, None, 36, 13, 62, None, None, None, None, 43, None, None, None, None]
+3
+[None, None, 82, 67, None, None, None, None]
+[None, None, 82, None, None, None, None, None]
+[None, None, None, None, None, None, None, None]
+[None, None, None, None, None, 69, None, None]
+[16, None, None, None, None, 69, None, None]
+[None, None, None, None, None, 69, None, None]
+[None, None, None, None, None, None, None, None]
+[None, 17, None, None, None, None, None, None]
+[None, [81, 17], None, None, None, None, None, None]
+[None, 81, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None]
+[None, None, None, 99, None, None, None, None]
+[None, None, None, None, None, None, None, None]
+[None, None, None, 67, None, None, None, None]
+[None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, 38, None]
+[8, None, None, None, None, None, 38, None]
+[8, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None]

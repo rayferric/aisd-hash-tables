@@ -1,11 +1,6 @@
-[None, 1, 42, 11, None, 69, None, 67, None, 19]
-[None, 1, 42, 11, None, 69, None, Deleted, None, 19]
-1
+[None, 12, None, None, None, None, 67, 51, None, 97, None]
+[None, Deleted, None, None, None, None, 67, 51, None, 97, None]
 9
-[None, 1, Deleted, 11, None, 69, None, Deleted, None, 19]
-[None, 1, Deleted, 11, None, 69, None, Deleted, 78, 19]
-1
-5
-[None, Deleted, Deleted, 11, None, 69, None, Deleted, 78, 19]
-5
-3
+6
+[None, Deleted, None, 36, None, None, 67, 51, None, 97, None]
+[None, Deleted, None, 36, None, None, 67, 51, None, 97, 76]

@@ -1,27 +1,37 @@
-[None, None, 5]
-[33, None, 5]
-2
-[Deleted, None, 5]
-[Deleted, None, Deleted]
-[84, None, Deleted]
-[84, None, 53]
-[Deleted, None, 53]
-[Deleted, 4, 53]
+[93, 10, None]
+[93, None, None]
+[[63, 93], None, None]
+[63, None, None]
+[63, 31, None]
 1
-[Deleted, Deleted, 53]
-[Deleted, Deleted, Deleted]
-[Deleted, 52, Deleted]
-[Deleted, Deleted, Deleted]
-[Deleted, 25, Deleted]
-[Deleted, 25, 77]
-[Deleted, 25, Deleted]
-[Deleted, Deleted, Deleted]
-[Deleted, Deleted, 47]
-[Deleted, Deleted, Deleted]
-[Deleted, 4, Deleted]
-[Deleted, Deleted, Deleted]
-[30, Deleted, Deleted]
-[Deleted, Deleted, Deleted]
-[57, Deleted, Deleted]
-[57, Deleted, 3]
-[Deleted, Deleted, 3]
+[None, 31, None]
+[63, 31, None]
+[[24, 63], 31, None]
+[[24, 63], None, None]
+0
+[24, None, None]
+0
+[None, None, None]
+[None, None, 83]
+2
+[None, None, None]
+[None, None, 5]
+2
+[78, None, 5]
+0
+0
+[78, None, None]
+0
+[78, None, 50]
+[78, None, None]
+[None, None, None]
+[6, None, None]
+[[12, 6], None, None]
+[12, None, None]
+0
+[None, None, None]
+[30, None, None]
+[None, None, None]
+[None, 85, None]
+1
+1

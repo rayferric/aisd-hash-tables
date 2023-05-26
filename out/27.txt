@@ -1,13 +1,1 @@
-[66, 85]
-0
-0
-0
-[66, Deleted]
-0
-[Deleted, Deleted]
-[86, Deleted]
-[Deleted, Deleted]
-[72, Deleted]
-[Deleted, Deleted]
-[Deleted, 41]
-[Deleted, Deleted]
+[None, 13, None, 51, 40, None, None, 43, None, None, None, None]

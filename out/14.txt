@@ -1,3 +1,7 @@
-[90, 31, 32, 80, 70, 85, 53, 57, 7, None]
-[90, 31, 32, 80, 70, 85, 53, Deleted, 7, None]
-[90, 31, 32, Deleted, 70, 85, 53, Deleted, 7, None]
+[64, None, None, 35, 44, 69, 62, 44]
+[64, None, None, 35, Deleted, 69, 62, 44]
+[64, 49, None, 35, Deleted, 69, 62, 44]
+[64, 49, None, 35, Deleted, Deleted, 62, 44]
+[64, 49, None, Deleted, Deleted, Deleted, 62, 44]
+1
+[64, 49, None, Deleted, Deleted, Deleted, Deleted, 44]
