@@ -1,10 +1,6 @@
-[None, 91, None, None, 34, 85, None, 97, None, None]
-1
-7
-[None, Deleted, None, None, 34, 85, None, 97, None, None]
-4
-7
-[None, Deleted, None, None, Deleted, 85, None, 97, None, None]
-5
-[None, Deleted, None, None, Deleted, Deleted, None, 97, None, None]
-7
+[30, None, None, 83, None]
+[30, None, 40, 83, None]
+3
+0
+[30, None, 40, Deleted, None]
+[Deleted, None, 40, Deleted, None]

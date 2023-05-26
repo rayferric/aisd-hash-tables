@@ -1,2 +1,7 @@
-[98, 40]
-[Deleted, 40]
+[70, 92, 99, 80, 94, 52, 34]
+[70, 92, 99, Deleted, 94, 52, 34]
+2
+6
+[Deleted, 92, 99, Deleted, 94, 52, 34]
+4
+[Deleted, 92, 99, Deleted, 94, 52, Deleted]

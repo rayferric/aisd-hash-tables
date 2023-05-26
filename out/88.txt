@@ -1,4 +1,12 @@
-[None, None, None, None, None, None, None, None, 8, None, None, None, 12, None, 84, 15, None, None, None, None, None, None, None, None, 24, 25, None, None, 28, None, None, 31, None, None, None, None, None, 37, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 55, None, None, 58, None, 60, None, None, 63, None, None, None, 67, None, None]
-[None, None, None, None, None, None, None, None, 8, None, None, None, 12, None, 84, 15, None, None, None, None, None, None, None, None, 24, 25, None, None, 28, None, None, Deleted, None, None, None, None, None, 37, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 55, None, None, 58, None, 60, None, None, 63, None, None, None, 67, None, None]
-24
-67
+[55, 22, 5, 30, 34]
+[55, 22, 5, Deleted, 34]
+[55, 22, 5, Deleted, Deleted]
+[55, 22, Deleted, Deleted, Deleted]
+1
+[55, 22, Deleted, 53, Deleted]
+1
+[55, Deleted, Deleted, 53, Deleted]
+0
+[55, Deleted, 22, 53, Deleted]
+2
+2

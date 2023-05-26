@@ -1,2 +1,5 @@
-[93, 76, None]
-[Deleted, 76, None]
+[20, 61, 50, 58]
+1
+2
+[20, 61, Deleted, 58]
+[20, Deleted, Deleted, 58]

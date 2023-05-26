@@ -1,11 +1,10 @@
-[85, 62, 53, 98, 97]
-[Deleted, 62, 53, 98, 97]
-None
-[Deleted, 62, 53, 98, 97]
-[Deleted, 62, 53, Deleted, 97]
-None
-[5, 62, 53, Deleted, 97]
-[5, 62, 53, 32, 97]
-[5, 62, 53, 32, 97]
-3
-1
+[None, 1, None, 39, None, 29]
+[None, Deleted, None, 39, None, 29]
+[None, Deleted, None, 39, None, Deleted]
+[None, Deleted, None, 39, 52, Deleted]
+[None, Deleted, None, 39, Deleted, Deleted]
+[None, Deleted, 38, 39, Deleted, Deleted]
+[None, Deleted, 38, Deleted, Deleted, Deleted]
+2
+2
+[None, Deleted, Deleted, Deleted, Deleted, Deleted]

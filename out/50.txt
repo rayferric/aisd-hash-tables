@@ -1,25 +1,27 @@
-[39, None, 80, None, None, 44, 6, 33, 21, 9, 10, 63, 62]
-[39, None, 80, None, None, 44, 6, 33, 21, 9, 10, 63, Deleted]
-[39, None, 80, None, None, 44, 6, 33, Deleted, 9, 10, 63, Deleted]
-[39, None, 80, None, None, 44, Deleted, 33, Deleted, 9, 10, 63, Deleted]
-5
-[39, None, 80, None, None, 44, Deleted, 33, Deleted, 9, 10, Deleted, Deleted]
-[39, None, 80, None, None, 44, 97, 33, Deleted, 9, 10, Deleted, Deleted]
-[39, None, 80, None, None, 44, 97, 33, Deleted, Deleted, 10, Deleted, Deleted]
-[39, None, 80, None, None, 44, 97, 33, 20, Deleted, 10, Deleted, Deleted]
-[39, None, 80, None, None, 44, 97, Deleted, 20, Deleted, 10, Deleted, Deleted]
-5
-[39, None, 80, None, None, 44, 97, Deleted, 20, Deleted, Deleted, Deleted, Deleted]
-[39, None, 80, None, None, Deleted, 97, Deleted, 20, Deleted, Deleted, Deleted, Deleted]
-[Deleted, None, 80, None, None, Deleted, 97, Deleted, 20, Deleted, Deleted, Deleted, Deleted]
+[None, [16, 81], [12, 87, 67], None, None]
+[None, [16, 81], [12, 67], None, None]
 2
-[Deleted, None, 80, None, None, 96, 97, Deleted, 20, Deleted, Deleted, Deleted, Deleted]
-[Deleted, None, 80, None, None, 96, Deleted, Deleted, 20, Deleted, Deleted, Deleted, Deleted]
-[Deleted, None, Deleted, None, None, 96, Deleted, Deleted, 20, Deleted, Deleted, Deleted, Deleted]
-[Deleted, None, Deleted, None, None, 96, Deleted, Deleted, 20, Deleted, Deleted, 50, Deleted]
-11
-[Deleted, 79, Deleted, None, None, 96, Deleted, Deleted, 20, Deleted, Deleted, 50, Deleted]
-[Deleted, 79, Deleted, None, None, Deleted, Deleted, Deleted, 20, Deleted, Deleted, 50, Deleted]
-[Deleted, 79, Deleted, None, None, Deleted, Deleted, 72, 20, Deleted, Deleted, 50, Deleted]
-11
-[Deleted, 79, Deleted, None, None, Deleted, Deleted, Deleted, 20, Deleted, Deleted, 50, Deleted]
+[None, 81, [12, 67], None, None]
+[None, 81, 67, None, None]
+1
+[None, None, 67, None, None]
+[None, None, None, None, None]
+[None, None, None, None, 19]
+[None, None, 57, None, 19]
+[20, None, 57, None, 19]
+2
+4
+4
+[20, None, None, None, 19]
+0
+4
+[[80, 20], None, None, None, 19]
+0
+[[80, 20], None, None, None, None]
+[80, None, None, None, None]
+[None, None, None, None, None]
+[45, None, None, None, None]
+0
+0
+[None, None, None, None, None]
+[None, None, None, 73, None]

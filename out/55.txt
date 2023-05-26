@@ -1,55 +1,38 @@
-[28, 67, None, 88, 52, 39, 23, 24, 57, 26, 44, 3, 76, 47, 31, 47, 84]
-[28, 67, None, 88, 52, 39, 23, 24, 57, 26, 44, Deleted, 76, 47, 31, 47, 84]
-[28, 67, None, 88, 52, 39, 23, 24, 57, 26, 44, 50, 76, 47, 31, 47, 84]
-None
-14
-[28, 67, None, Deleted, 52, 39, 23, 24, 57, 26, 44, 50, 76, 47, 31, 47, 84]
-[Deleted, 67, None, Deleted, 52, 39, 23, 24, 57, 26, 44, 50, 76, 47, 31, 47, 84]
-None
-[26, 67, None, Deleted, 52, 39, 23, 24, 57, 26, 44, 50, 76, 47, 31, 47, 84]
-None
-9
-[26, 67, None, Deleted, 52, 39, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
-[26, 67, 33, Deleted, 52, 39, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
-None
-6
-[26, 67, 33, 18, 52, 39, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
-1
-[26, 67, Deleted, 18, 52, 39, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
-[26, 67, Deleted, 18, 52, 39, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
+[None, 19, 65, 57, 76, None, 33, None, None]
+[None, 19, 65, 57, None, None, 33, None, None]
+[None, 19, 65, [39, 57], None, None, 33, None, None]
+[None, 19, 65, [39, 57], None, None, None, None, None]
+[None, 19, 65, 57, None, None, None, None, None]
+[None, None, 65, 57, None, None, None, None, None]
+[None, None, None, 57, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, 60, None, None]
+[None, None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, 97, None]
+[None, None, None, None, None, None, None, None, None]
+[None, None, None, None, 4, None, None, None, None]
+[None, None, 74, None, 4, None, None, None, None]
 4
-[26, 67, Deleted, 18, Deleted, 39, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
+[27, None, 74, None, 4, None, None, None, None]
+2
+[27, None, None, None, 4, None, None, None, None]
+[27, None, None, None, None, None, None, None, None]
+0
+[None, None, None, None, None, None, None, None, None]
+[None, None, None, 57, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, None]
+[None, None, None, 30, None, None, None, None, None]
 3
-8
-6
-6
-[26, 67, Deleted, 18, Deleted, Deleted, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
-6
-1
-[26, Deleted, Deleted, 18, Deleted, Deleted, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
-[26, Deleted, 51, 18, Deleted, Deleted, 23, 24, 57, 26, Deleted, 50, 76, 47, 31, 47, 84]
-[26, Deleted, 51, 18, Deleted, Deleted, 23, 24, 57, Deleted, Deleted, 50, 76, 47, 31, 47, 84]
-[26, Deleted, 51, 18, Deleted, Deleted, 23, 24, 57, Deleted, Deleted, 50, 76, 47, 31, 47, 84]
-[26, Deleted, 51, 18, Deleted, Deleted, 23, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, 84]
-[26, Deleted, 51, 18, 15, Deleted, 23, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, 84]
-[26, Deleted, 51, 18, 15, Deleted, 23, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, 84]
-[26, Deleted, 51, 18, 15, Deleted, Deleted, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, 84]
-[26, Deleted, 51, 18, 15, Deleted, Deleted, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
-[26, Deleted, 51, 18, 15, Deleted, Deleted, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
-[26, Deleted, 51, 18, 15, 5, Deleted, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
-14
-[26, Deleted, 51, 18, 15, 5, Deleted, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
-10
-[26, Deleted, 51, 18, 15, 5, 2, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
-[26, Deleted, Deleted, 18, 15, 5, 2, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
-[26, Deleted, 45, 18, 15, 5, 2, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
-14
-None
-None
-[26, 63, 45, 18, 15, 5, 2, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
-6
-[26, 63, 45, 18, 15, Deleted, 2, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
-[26, 63, 45, 18, 15, Deleted, 2, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
-None
-[26, 63, 45, 18, Deleted, Deleted, 2, 24, 57, Deleted, 42, 50, 76, 47, 31, 47, Deleted]
-13
+3
+[None, None, None, 30, None, None, 87, None, None]
+[None, None, None, 30, None, None, None, None, None]
+[None, None, 11, 30, None, None, None, None, None]
+3
+3
+2
+[None, None, 11, None, None, None, None, None, None]
+2
+2
+2
+2
+2

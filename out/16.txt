@@ -1,3 +1,7 @@
-[None, 13, 26, 46]
-[None, Deleted, 26, 46]
-2
+[None, 1, None, None, [76, 76], None, 90, None, 80, [69, 81, 45], [22, 10, 82], None]
+[None, None, None, None, [76, 76], None, 90, None, 80, [69, 81, 45], [22, 10, 82], None]
+[None, None, None, None, [76, 76], None, None, None, 80, [69, 81, 45], [22, 10, 82], None]
+8
+10
+[None, None, None, None, [76, 76], None, None, None, 80, [69, 81, 45], [22, 10], None]
+9

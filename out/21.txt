@@ -1,2 +1,10 @@
-[None, None, None, None, None, None, None, 79]
-7
+[None, None, 39, 81, 80, 95]
+[None, None, Deleted, 81, 80, 95]
+5
+3
+4
+3
+[None, None, Deleted, 81, 80, Deleted]
+[None, None, Deleted, Deleted, 80, Deleted]
+[None, None, 26, Deleted, 80, Deleted]
+2
